@@ -1,13 +1,9 @@
 # Multi languages with PHP
 
 
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/portada2-590x295.jpg)](https://www.ideas2code.io/multi-language-with-php.html)
+[![enter image description here](https://user-images.githubusercontent.com/9513390/129836634-d162646b-320c-4c05-b81a-709293e9539a.jpg)](https://www.ideas2code.io/multi-language-with-php.html)
 
 There are several ways to create a website with multi languages, today we will see one way. Using PHP + HTML
-
-## Sponsor
-
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/10/bar.fw_.png)](http://adf.ly/23757721/www.ideas2code.io)
 
 ## Objetive
 
@@ -16,7 +12,6 @@ There are several ways to create a website with multi languages, today we will s
 ## Demo
 [https://demos.ideas2code.io/Multi-language-with-PHP/](https://demos.ideas2code.io/Multi-language-with-PHP/)
 
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/demo.jpg)](https://demos.ideas2code.io/Multi-language-with-PHP/)
 
 ## Requirements
  - PHP7 
